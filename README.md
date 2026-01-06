@@ -1,7 +1,5 @@
 # Reusable React Badge Component
 
-## App Usage
-
 In `App.jsx`, the `Badge` component is rendered multiple times with different prop values to demonstrate **reusability**.
 
 ## How to Run
